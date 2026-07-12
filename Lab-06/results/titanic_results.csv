@@ -1,0 +1,7 @@
+Dataset,Algorithm,Accuracy,Precision,Recall,F1 Score
+Titanic,Logistic Regression,0.8045,0.8027,0.8045,0.8023
+Titanic,KNN (k=5),0.7877,0.789,0.7877,0.7883
+Titanic,Decision Tree,0.7542,0.753,0.7542,0.7535
+Titanic,Random Forest,0.7933,0.7928,0.7933,0.793
+Titanic,Naive Bayes,0.7374,0.7398,0.7374,0.7384
+Titanic,SVM (RBF),0.8268,0.8256,0.8268,0.8249

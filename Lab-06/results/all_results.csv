@@ -1,0 +1,13 @@
+Dataset,Algorithm,Accuracy,Precision,Recall,F1 Score
+Spambase,Logistic Regression,0.9294,0.9293,0.9294,0.9293
+Spambase,KNN (k=5),0.9077,0.9076,0.9077,0.9076
+Spambase,Decision Tree,0.911,0.9112,0.911,0.9111
+Spambase,Random Forest,0.9457,0.9459,0.9457,0.9455
+Spambase,Naive Bayes,0.8328,0.8666,0.8328,0.8345
+Spambase,SVM (RBF),0.9273,0.9273,0.9273,0.9269
+Titanic,Logistic Regression,0.8045,0.8027,0.8045,0.8023
+Titanic,KNN (k=5),0.7877,0.789,0.7877,0.7883
+Titanic,Decision Tree,0.7542,0.753,0.7542,0.7535
+Titanic,Random Forest,0.7933,0.7928,0.7933,0.793
+Titanic,Naive Bayes,0.7374,0.7398,0.7374,0.7384
+Titanic,SVM (RBF),0.8268,0.8256,0.8268,0.8249
