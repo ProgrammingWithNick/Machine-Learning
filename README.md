@@ -1,6 +1,6 @@
 # ML Practicals
 
-A collection of Machine Learning practical programs using Python.
+A collection of Machine Learning practical programs using Python...
 
 ## Tech Stack
 
